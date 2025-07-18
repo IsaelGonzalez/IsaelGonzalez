@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi, my name is Isael Gonzalez 👋
 
 <!--
 **IsaelGonzalez/IsaelGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+#about me
+- I'm a web developer
+
 
 Here are some ideas to get you started:
 
